@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\unionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:unionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\icreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:icreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\idebitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:idebitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\stockfundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:stockfundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\oppsproject\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C1DA4-88DC-4E12-BCCB-5C917F79E7A1}|OppsProject.csproj|solutionrelative:stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\ICreditCard.cs",
+              "RelativeDocumentMoniker": "ICreditCard.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\ICreditCard.cs",
+              "RelativeToolTip": "ICreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:16:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDebitCard.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\IDebitCard.cs",
+              "RelativeDocumentMoniker": "IDebitCard.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\IDebitCard.cs",
+              "RelativeToolTip": "IDebitCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:16:11.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnionBank.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\UnionBank.cs",
+              "RelativeDocumentMoniker": "UnionBank.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\UnionBank.cs",
+              "RelativeToolTip": "UnionBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:14:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockFundamentals.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\StockFundamentals.cs",
+              "RelativeDocumentMoniker": "StockFundamentals.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\StockFundamentals.cs",
+              "RelativeToolTip": "StockFundamentals.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:13:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:18:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\Stocks.cs",
+              "RelativeDocumentMoniker": "Stocks.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\Stocks.cs",
+              "RelativeToolTip": "Stocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:38:23.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
