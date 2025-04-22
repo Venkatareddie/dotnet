@@ -1,0 +1,14 @@
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\bin\Debug\net9.0\DotnetApp.exe
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\bin\Debug\net9.0\DotnetApp.deps.json
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\bin\Debug\net9.0\DotnetApp.runtimeconfig.json
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\bin\Debug\net9.0\DotnetApp.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\bin\Debug\net9.0\DotnetApp.pdb
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.AssemblyInfoInputs.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.AssemblyInfo.cs
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\refint\DotnetApp.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.pdb
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\DotnetApp.genruntimeconfig.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetApp\obj\Debug\net9.0\ref\DotnetApp.dll

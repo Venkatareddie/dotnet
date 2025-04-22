@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\OppsProject.csproj",
+      "projectUniqueName": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\dotnet\\OppsProject\\OppsProject.csproj",
       "projectName": "OppsProject",
-      "projectPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\OppsProject.csproj",
+      "projectPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\dotnet\\OppsProject\\OppsProject.csproj",
       "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\OppsProject\\obj\\",
+      "outputPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\dotnet\\OppsProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
