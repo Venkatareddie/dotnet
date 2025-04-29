@@ -16,7 +16,8 @@ namespace DotnetApp
         }
         public override string displayInfo()
         {
-            return $"TRetailStock : {TickerSymbol} - {TickerName} - {TickerPrice} - {CurrentRatio} -  {sector}";
+            return $"RetailStock : {TickerSymbol} - {TickerName} - {TickerPrice} - {CurrentRatio} -  {sector}";
+
         }
 
         public double buy()

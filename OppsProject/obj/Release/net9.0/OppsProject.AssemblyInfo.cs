@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OppsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517afd2ff95fa0e2df2119abfe8095892fde7bb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b475c7bc0cdf287ad0f175611a842f1d220cbab9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OppsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OppsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

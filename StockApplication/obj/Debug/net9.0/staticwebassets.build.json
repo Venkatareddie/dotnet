@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BuVd0qzv666WegOvS4YGa2TsSWuiXo2pJckPc8h9nGs=",
+  "Source": "StockApplication",
+  "BasePath": "_content/StockApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

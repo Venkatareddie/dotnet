@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\interface\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:interface\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\stockfundamentalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\stockfundamentalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\sectormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\sectormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\subsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\subsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\stockpricemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\stockpricemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\repository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:repository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\model\\commonstockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:model\\commonstockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|c:\\users\\venka\\onedrive\\documents\\apr25\\stockapplication\\stockapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA73481F-1FE5-437C-838C-447E2DA545C5}|StockApplication.csproj|solutionrelative:stockapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Repository\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Repository\\IStockRepository.cs",
+              "RelativeToolTip": "Repository\\IStockRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:00:22.188Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonStockModel.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\CommonStockModel.cs",
+              "RelativeDocumentMoniker": "Model\\CommonStockModel.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\CommonStockModel.cs",
+              "RelativeToolTip": "Model\\CommonStockModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:29:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockPriceModel.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockPriceModel.cs",
+              "RelativeDocumentMoniker": "Model\\StockPriceModel.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockPriceModel.cs",
+              "RelativeToolTip": "Model\\StockPriceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:19:50.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubSector.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\SubSector.cs",
+              "RelativeDocumentMoniker": "Model\\SubSector.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\SubSector.cs",
+              "RelativeToolTip": "Model\\SubSector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:18:13.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SectorModel.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\SectorModel.cs",
+              "RelativeDocumentMoniker": "Model\\SectorModel.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\SectorModel.cs",
+              "RelativeToolTip": "Model\\SectorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:17:14.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockFundamentalModel.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockFundamentalModel.cs",
+              "RelativeDocumentMoniker": "Model\\StockFundamentalModel.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockFundamentalModel.cs",
+              "RelativeToolTip": "Model\\StockFundamentalModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:13:18.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Repository\\StockRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAtwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:01:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:50:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Controllers\\StocksController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:34:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Service\\StockService.cs",
+              "RelativeDocumentMoniker": "Service\\StockService.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Service\\StockService.cs",
+              "RelativeToolTip": "Service\\StockService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockModel.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockModel.cs",
+              "RelativeDocumentMoniker": "Model\\StockModel.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Model\\StockModel.cs",
+              "RelativeToolTip": "Model\\StockModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:09:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Interface\\IStockService.cs",
+              "RelativeDocumentMoniker": "Interface\\IStockService.cs",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\Interface\\IStockService.cs",
+              "RelativeToolTip": "Interface\\IStockService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:09:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\StockApplication.csproj",
+              "RelativeDocumentMoniker": "StockApplication.csproj",
+              "ToolTip": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\StockApplication\\StockApplication.csproj",
+              "RelativeToolTip": "StockApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T04:08:45.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

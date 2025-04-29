@@ -1,0 +1,14 @@
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\bin\Debug\net9.0\DotnetBasics.exe
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\bin\Debug\net9.0\DotnetBasics.deps.json
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\bin\Debug\net9.0\DotnetBasics.runtimeconfig.json
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\bin\Debug\net9.0\DotnetBasics.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\bin\Debug\net9.0\DotnetBasics.pdb
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.AssemblyInfoInputs.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.AssemblyInfo.cs
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\refint\DotnetBasics.dll
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.pdb
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\DotnetBasics.genruntimeconfig.cache
+C:\Users\venka\OneDrive\Documents\Apr25\DotnetBasics\obj\Debug\net9.0\ref\DotnetBasics.dll

@@ -10,9 +10,9 @@ namespace DotnetApp
     {
         public string TickerSymbol { get; set; }
         public string TickerName { get; set; }
-        protected double TickerPrice { get; set; }
+        public double TickerPrice { get; set; }
 
-        protected double CurrentRatio { get; set; }
+        public double CurrentRatio { get; set; }
         public Stock(string symbol, string name, double price, double currentRatio)
         {
             TickerSymbol = symbol;

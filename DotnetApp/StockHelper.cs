@@ -8,9 +8,9 @@ namespace DotnetApp
 {
     static class StockHelper
     {
-        public static double TotalStockValue(double stockPrice, int quantity)
+        public static double TotalStockValue(double stockPrice, int noOfStocks)
         {
-            return stockPrice * quantity;
+            return stockPrice * noOfStocks;
         }
 
     }

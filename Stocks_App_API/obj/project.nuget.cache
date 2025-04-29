@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "f15kAf6SBCQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\venka\\OneDrive\\Documents\\Apr25\\Stocks_App_API\\Stocks_App_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\scalar.aspnetcore\\1.0.0\\scalar.aspnetcore.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency Scalar.AspNetCore does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "Scalar.AspNetCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v9.0"
+      ]
+    }
+  ]
+}
